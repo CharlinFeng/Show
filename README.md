@@ -1,3 +1,24 @@
+
+<br/><br/><br/>
+2015年8月31日 09:16
+=========
+<br/>
+CoreModel系列 正在重制:<br/>
+<br/>
+1.大量使用者反应不支持数组。<br/>
+2.我自己在使用中，因为之前版本是主线程操作，数据量大了，有一定的性能影响。<br/>
+<br/>
+重制版本全部使用NSOperationQueue队列操作，所有操作都在子线程中，并与CoreHttp高度统一。绝对提高了效率。<br/>
+
+目前已经完成：<br/>
+
+第一季：[CoreFMDB](https://github.com/nsdictionary/CoreFMDB) <br/>
+
+第二季：[CoreArchive](https://github.com/nsdictionary/CoreArchive)<br/>
+
+
+
+<br/><br/><br/>
 2015年8月31日 09:02
 =========
 
