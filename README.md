@@ -3,18 +3,18 @@
 
 
 <br/><br/><br/>
-2015年9月1日 10:40
+【3】2015年9月1日 10:40
 =========
-TextField-InputView 重大更新
-1.重新写了架构，框架改名（之前名为：TextField-PickerView）
-2.新添加了多选功能
-3.多选支持多选，默认选，必选，取消选等多种功能。一键集成！
+[TextField-InputView](https://github.com/CharlinFeng/TextField-InputView) 重大更新<br/><br/>
+1.重新写了架构，框架改名（之前名为：TextField-PickerView）<br/><br/>
+2.新添加了多选功能<br/><br/>
+3.多选支持多选，默认选，必选，取消选等多种功能。一键集成!
 
 
 
 
 <br/><br/><br/>
-2015年8月31日 09:16
+【2】2015年8月31日 09:16
 =========
 <br/>
 CoreModel系列 正在重制:<br/>
@@ -33,23 +33,15 @@ CoreModel系列 正在重制:<br/>
 
 
 <br/><br/><br/>
-2015年8月31日 09:02
+1. 2015年8月31日 09:02
 =========
 
 <br/>
-1.信息公示牌成立，之前在群里发各种信息，只有少数人能看到，还是有很多朋友没有看到信息，并且一直在问重复的问题，因此成立信息公示牌，希望大家以后常常来看看，不用再看群公告啦，建议您保存本网页，没事刷一刷。<br/>
+【1】信息公示牌成立，之前在群里发各种信息，只有少数人能看到，还是有很多朋友没有看到信息，并且一直在问重复的问题，因此成立信息公示牌，希望大家以后常常来看看，不用再看群公告啦，建议您保存本网页，没事刷一刷。<br/>
 
 <br/>
-2.冯成林的Github重大更新，您看到的有，Github名已经变化，最新地址：[https://github.com/CharlinFeng](https://github.com/CharlinFeng),再访问之前的地址可能提示404哦。<br/>
+2.冯成林的Github重大更新，您看到的有，Github名已经变化，最新地址：[https://github.com/CharlinFeng](https://github.com/CharlinFeng),再访问之前的地址可能提示404哦。很多不熟悉Github的朋友，想要查看更多框架请点击[仓库](https://github.com/CharlinFeng?tab=repositories)，您也可以关注我的微博，获取最实时的信息：[微博](http://weibo.com/charlin2015)，如果您觉得我的框架好用，请推荐给您的朋友和同事，让更多的人简化开发！<br/>
+
 
 <br/>
-3.很多不熟悉Github的朋友，想要查看更多框架请点击[仓库](https://github.com/CharlinFeng?tab=repositories)<br/>
-
-<br/>
-4.您也可以关注我的微博，获取最实时的信息：[微博](http://weibo.com/charlin2015)<br/>
-
-<br/>
-5.以后所有的新框架发布，旧框架升级，以及各种更新，都将通过本页面更新！还请大家相互转告。您有任何疑问可以在QQ群里@我，或者在这里issue我，谢谢大家。
-
-<br/>
-6.如果您认可我，也可以支持我的事业：[时点软件](http://ios-android.cn),我们现在做全国的APP外包业务，如果您能提供渠道信息帮助，时点感谢不尽！
+3.如果您认可我，也可以支持我的事业：[时点软件](http://ios-android.cn),我们现在做全国的APP外包业务，如果您能提供渠道信息帮助，[时点软件](http://ios-android.cn)感谢不尽！
