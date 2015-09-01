@@ -38,7 +38,7 @@ CoreModel系列 正在重制:<br/>
 
 
 <br/><br/><br/>
-1. Charlin Say
+1. 关注
 =========
 
 <br/>
