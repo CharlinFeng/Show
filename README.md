@@ -5,7 +5,8 @@
 <br/><br/><br/>
 3. TextField-InputView
 =========
-时间：2015年9月1日 10:40<br/>
+<br/>
+时间：2015年9月1日 10:40<br/><br/>
 [TextField-InputView](https://github.com/CharlinFeng/TextField-InputView) 重大更新<br/><br/>
 1.重新写了架构，框架改名（之前名为：TextField-PickerView）<br/><br/>
 2.新添加了多选功能<br/><br/>
@@ -17,8 +18,10 @@
 <br/><br/><br/>
 2. CoreModel系列
 =========
-时间：2015年8月31日 09:16
+
 <br/>
+时间：2015年8月31日 09:16<br/><br/>
+
 CoreModel系列 正在重制:<br/>
 <br/>
 1.大量使用者反应,增加对数组、Blob的支持。<br/>
@@ -35,11 +38,12 @@ CoreModel系列 正在重制:<br/>
 
 
 <br/><br/><br/>
-1. Charlin
+1. Charlin Say
 =========
 
-时间：2015年8月31日 09:02
 <br/>
+时间：2015年8月31日 09:02
+<br/><br/>
 1.信息公示牌成立，之前在群里发各种信息，只有少数人能看到，还是有很多朋友没有看到信息，并且一直在问重复的问题，因此成立信息公示牌，希望大家以后常常来看看，不用再看群公告啦，建议您保存本网页，没事刷一刷。<br/>
 
 <br/>
