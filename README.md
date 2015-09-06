@@ -10,8 +10,8 @@
 1.[CoreSVP](https://github.com/CharlinFeng/CoreSVP)增加快速显示宏定义。<br/><br/>
 2.[城市选取控制器](https://github.com/CharlinFeng/CFCityPickerVC)增加代理回调。<br/><br/>
 3.[SwiftExtension](https://github.com/CharlinFeng/SwiftExtension)已出。<br/><br/>
-4.[CoreRefresh](https://github.com/CharlinFeng/CoreRefresh)功能升级，细节调整。
-
+4.[CoreRefresh](https://github.com/CharlinFeng/CoreRefresh)功能升级，细节调整。<br/><br/>
+5.[PhotoBrowser](https://github.com/CharlinFeng/PhotoBrowser)各种调整。
 
 
 
