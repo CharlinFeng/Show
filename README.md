@@ -6,6 +6,19 @@
 3. TextField-InputView
 =========
 <br/>
+时间：2015年9月6日 09:00<br/><br/>
+1.[CoreSVP](https://github.com/CharlinFeng/CoreSVP)增加快速显示宏定义。<br/><br/>
+2.[城市选取控制器](https://github.com/CharlinFeng/CFCityPickerVC)增加代理回调。<br/><br/>
+3.[SwiftExtension](https://github.com/CharlinFeng/SwiftExtension)已出。<br/><br/>
+
+
+
+
+
+<br/><br/><br/>
+3. TextField-InputView
+=========
+<br/>
 时间：2015年9月1日 10:40<br/><br/>
 [TextField-InputView](https://github.com/CharlinFeng/TextField-InputView) 重大更新<br/><br/>
 1.重新写了架构，框架改名（之前名为：TextField-PickerView）<br/><br/>
