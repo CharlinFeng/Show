@@ -6,14 +6,15 @@
 4. 纯swift项目完成，框架例行升级
 =========
 <br/>
-时间：2015年9月6日 09:00<br/><br/>
+时间：2015年9月7日 12:31<br/><br/>
 1.[CoreSVP](https://github.com/CharlinFeng/CoreSVP)增加快速显示宏定义。<br/><br/>
 2.[城市选取控制器](https://github.com/CharlinFeng/CFCityPickerVC)增加代理回调。<br/><br/>
 3.[SwiftExtension](https://github.com/CharlinFeng/SwiftExtension)已出。<br/><br/>
 4.[CoreRefresh](https://github.com/CharlinFeng/CoreRefresh)功能升级，细节调整。<br/><br/>
 5.[PhotoBrowser](https://github.com/CharlinFeng/PhotoBrowser)各种调整。<br/><br/>
 6.[CoreSDWebImage](https://github.com/CharlinFeng/CoreSDWebImage)重写。<br/><br/>
-7.[CoreHttp,APPHttp](https://github.com/CharlinFeng/CoreHttp)功能升级。
+7.[CoreHttp,APPHttp](https://github.com/CharlinFeng/CoreHttp)功能升级。<br/><br/>
+8.[TextField-InputView](https://github.com/CharlinFeng/TextField-InputView)新增时间选取器
 
 <br/><br/><br/>
 3. TextField-InputView
