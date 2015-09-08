@@ -1,6 +1,16 @@
 信息公示牌
 =========
 
+<br/><br/><br/>
+5. 重磅推出：[CoreModel](https://github.com/CharlinFeng/CoreModel/) ‘高清重制版’！
+=========
+<br/>
+时间：2015年9月8日 21:42<br/><br/>
+###陆续更新文档！
+
+
+
+
 
 <br/><br/><br/>
 4. 纯swift项目完成，框架例行升级
