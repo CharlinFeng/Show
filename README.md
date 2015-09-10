@@ -5,13 +5,17 @@
 5. 重磅推出：[CoreModel](https://github.com/CharlinFeng/CoreModel/) ‘高清重制版’！
 =========
 <br/>
-时间：2015年9月8日 21:42<br/><br/>
+时间：2015年9月10日 12:42<br/><br/>
 ### 1.全子线程处理，性能飙升！
 ### 2.支持NSDta
 ### 3.支持包含普通属性的NSArray
 ### 4.支持包含NSData的NSArray
 ### 5.支持包含自定义模型的NSArray
 ### 更多特性等你发掘！
+<br/>
+### [https://github.com/CharlinFeng/CoreModel/](https://github.com/CharlinFeng/CoreModel/)
+
+
 
 
 <br/><br/><br/>
