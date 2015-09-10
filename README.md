@@ -1,3 +1,10 @@
+
+#### 支持时点软件发展（公司前期做全国APP外包），为时点提供业务资源与信息，我们感激不尽！
+<br/>
+[![image](https://github.com/CharlinFeng/Resource/blob/master/ShiDian/shidian.png)](http://ios-android.cn)<br/><br/>
+
+
+
 信息公示牌
 =========
 
@@ -117,4 +124,4 @@ CoreModel系列 正在重制:<br/>
 
 
 <br/>
-3.如果您认可我，也可以支持我的事业：[时点软件](http://ios-android.cn),我们现在做全国的APP外包业务，如果您能提供渠道信息帮助，[时点软件](http://ios-android.cn)感谢不尽！
+
