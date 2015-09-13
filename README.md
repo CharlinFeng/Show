@@ -14,7 +14,10 @@
 #### 说明：欢迎带上女朋友或家人，人多热闹。<br/>
 #### 费用：根据消费按人数AA。<br/>
 #### 人物：大家踊跃报名，谢谢。<br/>
-#### 地点：Aux广场，成都市高新区锦城大道666号(地铁1号线孵化园站) <br/>
+#### 地点：Aux广场，成都市高新区锦城大道666号(地铁1号线孵化园站) <br/><br/>
+
+### 注：请要准备参加的‘同志’，把您的真实姓名，联系电话发我私人QQ，谢谢。目前报名人数：10人。<br/><br/>
+
 
 ![image](https://github.com/CharlinFeng/Resource/blob/master/Aux/1.png)<br/>
 ![image](https://github.com/CharlinFeng/Resource/blob/master/Aux/2.png)<br/>
