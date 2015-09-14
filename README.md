@@ -19,8 +19,8 @@
 ### 注：请要准备参加的‘同志’，把您的真实姓名，联系电话发我私人QQ，谢谢。目前报名人数：10人。<br/><br/>
 
 
-![image](https://github.com/CharlinFeng/Resource/blob/master/Aux/1.png)<br/>
-![image](https://github.com/CharlinFeng/Resource/blob/master/Aux/2.png)<br/>
+![image](https://github.com/CharlinFeng/Resource/blob/master/Aux/1.jpg)<br/>
+![image](https://github.com/CharlinFeng/Resource/blob/master/Aux/2.jpg)<br/>
 
 <br/>
 
