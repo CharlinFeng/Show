@@ -7,22 +7,21 @@
 <br/><br/><br/>
 6. 全面支持Swift 2.0
 =========
+<br/><br/>
 
-[Reflect](https://github.com/CharlinFeng/Reflect)<br/><br/>
+(1). [Reflect](https://github.com/CharlinFeng/Reflect) 一键模型字典互转，一键归档<br/><br/>
 
-[PhotoBrowser](https://github.com/CharlinFeng/PhotoBrowser)<br/><br/>
+(2). [PhotoBrowser](https://github.com/CharlinFeng/PhotoBrowser) 照片浏览器<br/><br/>
 
-[CFCityPickerVC](https://github.com/CharlinFeng/CFCityPickerVC)<br/><br/>
+(3). [CFCityPickerVC](https://github.com/CharlinFeng/CFCityPickerVC) 城市选取器<br/><br/>
 
-[CFPPTView](https://github.com/CharlinFeng/CFPPTView)<br/><br/>
+(4). [CFPPTView](https://github.com/CharlinFeng/CFPPTView) 无限滚动幻灯<br/><br/>
 
-CFSnapKit<br/><br/>
+(6). [SwiftExtension](https://github.com/CharlinFeng/SwiftExtension) Swift基扩展<br/><br/>
 
-SwiftExtension<br/><br/>
+(7). [TextView+KeyBoard](https://github.com/CharlinFeng/TextView-KeyBoard) 文本域与键盘<br/><br/>
 
-TextView+KeyBoard<br/><br/>
-
-UITextField+InputView<br/><br/>
+(8). [UITextField+InputView](https://github.com/CharlinFeng/TextField-InputView) 输入框与键盘<br/><br/>
 
 
 
