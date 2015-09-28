@@ -5,7 +5,7 @@
 
 
 <br/><br/><br/>
-6. 全面支持Swift 2.0
+8. 全面支持Swift 2.0
 =========
 <br/><br/>
 
@@ -26,7 +26,7 @@
 
 
 <br/><br/>
-6. 庆国庆！成都iOS开发者技术‘峰会’：
+7. 庆国庆！成都iOS开发者技术‘峰会’：
 =========
 
 ###由Charlin Feng(冯成林)组织的‘成都iOS开发者峰会’，初步定于2015年9月30日下午19:00于成都市奥克斯广场举行，欢迎成都本地或外地朋友参与。<br/>
@@ -49,7 +49,7 @@
 
 
 <br/><br/><br/><br/>
-5. CoreJPush：[CoreJPush](https://github.com/CharlinFeng/CoreJPush) ！
+6. CoreJPush：[CoreJPush](https://github.com/CharlinFeng/CoreJPush) ！
 =========
 <br/>
 ### 三分钟，四句代码，搞定JPush
