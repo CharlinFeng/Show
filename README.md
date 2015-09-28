@@ -3,8 +3,31 @@
 信息公示牌
 =========
 
+
+<br/><br/><br/>
+6. 全面支持Swift 2.0
+=========
+
+[Reflect](https://github.com/CharlinFeng/Reflect)<br/><br/>
+
+[PhotoBrowser](https://github.com/CharlinFeng/PhotoBrowser)<br/><br/>
+
+[CFCityPickerVC](https://github.com/CharlinFeng/CFCityPickerVC)<br/><br/>
+
+[CFPPTView](https://github.com/CharlinFeng/CFPPTView)<br/><br/>
+
+CFSnapKit<br/><br/>
+
+SwiftExtension<br/><br/>
+
+TextView+KeyBoard<br/><br/>
+
+UITextField+InputView<br/><br/>
+
+
+
 <br/><br/>
-【置顶】 庆国庆！成都iOS开发者技术‘峰会’：
+6. 庆国庆！成都iOS开发者技术‘峰会’：
 =========
 
 ###由Charlin Feng(冯成林)组织的‘成都iOS开发者峰会’，初步定于2015年9月30日下午19:00于成都市奥克斯广场举行，欢迎成都本地或外地朋友参与。<br/>
