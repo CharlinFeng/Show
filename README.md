@@ -20,7 +20,7 @@
 
 (3). [CFCityPickerVC](https://github.com/CharlinFeng/CFCityPickerVC) 城市选取器<br/><br/>
 
-(4). [CFPPTView](https://github.com/CharlinFeng/CFPPTView) 无限滚动幻灯<br/><br/>
+(4). [CFPPTView](https://github.com/CharlinFeng/CFPPTView) 无限滚动幻灯(已经更新支持单张图片展示)<br/><br/>
 
 (6). [SwiftExtension](https://github.com/CharlinFeng/SwiftExtension) Swift基扩展<br/><br/>
 
@@ -28,11 +28,18 @@
 
 (8). [UITextField+InputView](https://github.com/CharlinFeng/TextField-InputView) 输入框与键盘<br/><br/>
 
+(9). [CFSegmentControl](https://github.com/CharlinFeng/CFSegmentControl) 单选控件<br/><br/>
+
+(10). [CFPagesVC](https://github.com/CharlinFeng/CFPagesVC) 多控制器管理<br/><br/>
+
 
 
 <br/><br/>
 7. 庆国庆！成都iOS开发者技术‘峰会’：
 =========
+
+
+
 
 ###由Charlin Feng(冯成林)组织的‘成都iOS开发者峰会’，初步定于2015年9月30日下午19:00于成都市奥克斯广场举行，欢迎成都本地或外地朋友参与。<br/>
 #### 时间：2015年9月30日 晚上19:00（最后一天下班的晚上，大家应该都有时间哈）<br/>
