@@ -1,9 +1,11 @@
+![image](https://github.com/CharlinFeng/Resource/blob/master/Show/logo.png)<br/>
+
 
 
 信息公示牌
 =========
 
-<br/><br/><br/>
+<br/><br/>
 9. 一键启动动画
 =========
 <br/><br/>
