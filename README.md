@@ -3,6 +3,11 @@
 信息公示牌
 =========
 
+<br/><br/><br/>
+9. 全面支持Swift 2.0
+=========
+<br/><br/>
+[CoreLaunch](https://github.com/CharlinFeng/CoreLaunch) 一键启动动画,一句代码即可集成,4种效果可选<br/><br/>
 
 <br/><br/><br/>
 8. 全面支持Swift 2.0
