@@ -1,6 +1,17 @@
 ![image](https://github.com/CharlinFeng/Resource/blob/master/Show/logo.png)<br/>
 
 
+<br/>
+成都时点软件开发有限公司
+=========
+
+<br/>
+
+#### 支持[成都时点软件开发有限公司](http://ios-android.cn)（公司前期做`全国APP外包业务`），为时点`提供业务资源与信息与业务合作`，我们感激不尽！
+<br/>
+[![image](https://github.com/CharlinFeng/Resource/blob/master/ShiDian/shidian.png)](http://ios-android.cn)<br/><br/>
+
+<br/><br/><br/>
 
 信息公示牌
 =========
@@ -141,6 +152,14 @@ CoreModel系列 正在重制:<br/>
 1,组织信息 Charlin Feng：
 ===============
 
+
+时间：2015年8月31日 09:02
+<br/><br/>
+1.信息公示牌成立，之前在群里发各种信息，只有少数人能看到，还是有很多朋友没有看到信息，并且一直在问重复的问题，因此成立信息公示牌，希望大家以后常常来看看，不用再看群公告啦，建议您保存本网页，没事刷一刷。<br/>
+
+<br/>
+2.冯成林的Github重大更新，您看到的有，Github名已经变化，最新地址：[https://github.com/CharlinFeng](https://github.com/CharlinFeng),再访问之前的地址可能提示404哦。很多不熟悉Github的朋友，想要查看更多框架请点击[仓库](https://github.com/CharlinFeng?tab=repositories)，您也可以关注我的微博，获取最实时的信息：[微博](http://weibo.com/charlin2015)，如果您觉得我的框架好用，请推荐给您的朋友和同事，让更多的人简化开发！<br/>
+
 注： 加群请随时关注群公告
 
 <br />
@@ -167,19 +186,5 @@ CoreModel系列 正在重制:<br/>
 **WARNING: 已爆满，加不上了**<br /><br />
 
 
-<br/><br/><br/>
-关注时点软件
-=========
 
-<br/>
-时间：2015年8月31日 09:02
-<br/><br/>
-1.信息公示牌成立，之前在群里发各种信息，只有少数人能看到，还是有很多朋友没有看到信息，并且一直在问重复的问题，因此成立信息公示牌，希望大家以后常常来看看，不用再看群公告啦，建议您保存本网页，没事刷一刷。<br/>
-
-<br/>
-2.冯成林的Github重大更新，您看到的有，Github名已经变化，最新地址：[https://github.com/CharlinFeng](https://github.com/CharlinFeng),再访问之前的地址可能提示404哦。很多不熟悉Github的朋友，想要查看更多框架请点击[仓库](https://github.com/CharlinFeng?tab=repositories)，您也可以关注我的微博，获取最实时的信息：[微博](http://weibo.com/charlin2015)，如果您觉得我的框架好用，请推荐给您的朋友和同事，让更多的人简化开发！<br/>
-
-#### 支持[成都时点软件开发有限公司](http://ios-android.cn)（公司前期做全国APP外包），为时点提供业务资源与信息，我们感激不尽！
-<br/>
-[![image](https://github.com/CharlinFeng/Resource/blob/master/ShiDian/shidian.png)](http://ios-android.cn)<br/><br/>
 
