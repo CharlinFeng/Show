@@ -191,3 +191,6 @@ CoreModel系列 正在重制:<br/>
 <br/>
 [![image](https://github.com/CharlinFeng/Resource/blob/master/ShiDian/shidian.png)](http://ios-android.cn)<br/><br/>
 
+<br/><br/>
+
+### 成长之路，感谢，感恩，自强。你我同在。
