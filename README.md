@@ -8,12 +8,11 @@
 <br/>
 
 #### 支持成都时点软件开发有限公司（公司前期做`全国APP外包业务`），为时点`提供业务资源与信息与业务合作`，我们感激不尽！
-### 公司网站：[成都时点软件开发有限公司](http://ios-android.cn)：[http://ios-android.cn](http://ios-android.cn)
-### APP业务QQ：2113171554
+### 公司网站：[http://ios-android.cn](http://ios-android.cn)
+### 商务QQ：2113171554
 
 
-<br/>
-[![image](https://github.com/CharlinFeng/Resource/blob/master/ShiDian/shidian.png)](http://ios-android.cn)<br/><br/>
+
 
 <br/><br/><br/><br/><br/>
 
@@ -188,5 +187,6 @@ CoreModel系列 正在重制:<br/>
 **WARNING: 已爆满，加不上了**<br /><br />
 
 
-
+<br/>
+[![image](https://github.com/CharlinFeng/Resource/blob/master/ShiDian/shidian.png)](http://ios-android.cn)<br/><br/>
 
