@@ -12,22 +12,22 @@
 #### `公司网站`：[http://ios-android.cn](http://ios-android.cn)
 #### `商务QQ`：[2113171554](http://wpa.qq.com/msgrd?v=3&uin=2113171554&site=qq&menu=yes)
 
-<br/><br/><br/>
+<br/><br/><br/><br/>
 ##### 技术交流，请加Charlin技术群：
 473185026（西部群，进群改真名），467237044（Swift群），347446259（四群），474377358（三群），369870753（二群，已满），163865401（一群，已满）
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 
 
 
-9. 一键启动动画
+8. 一键启动动画
 =========
 <br/><br/>
 [CoreLaunch](https://github.com/CharlinFeng/CoreLaunch) 一键启动动画,一句代码即可集成,4种效果可选<br/><br/>
 
 <br/><br/><br/>
-8. 全面支持Swift 2.0
+7. 全面支持Swift 2.0
 =========
 <br/><br/>
 
@@ -52,7 +52,7 @@
 
 
 <br/><br/>
-7. 庆国庆！成都iOS开发者技术‘峰会’：[照片已更新](https://github.com/CharlinFeng/Show/blob/master/ChengDu.md)
+6. 庆国庆！成都iOS开发者技术‘峰会’：[照片已更新](https://github.com/CharlinFeng/Show/blob/master/ChengDu.md)
 =========
 
 ###由Charlin Feng(冯成林)组织的‘成都iOS开发者峰会’，初步定于2015年9月30日下午19:00于成都市奥克斯广场举行，欢迎成都本地或外地朋友参与。<br/>
@@ -75,7 +75,7 @@
 
 
 <br/><br/><br/><br/>
-6. CoreJPush：[CoreJPush](https://github.com/CharlinFeng/CoreJPush) ！
+5. CoreJPush：[CoreJPush](https://github.com/CharlinFeng/CoreJPush) ！
 =========
 <br/>
 ### 三分钟，四句代码，搞定JPush
@@ -84,7 +84,7 @@ CoreJPush,让您四句代码立即搞定JPush，集成到使用只需要3分钟�
 
 
 <br/><br/><br/><br/>
-5. 重磅推出：[CoreModel](https://github.com/CharlinFeng/CoreModel/) ‘高清重制版’！
+4. 重磅推出：[CoreModel](https://github.com/CharlinFeng/CoreModel/) ‘高清重制版’！
 =========
 <br/>
 时间：2015年9月10日 12:42<br/><br/>
@@ -101,7 +101,7 @@ CoreJPush,让您四句代码立即搞定JPush，集成到使用只需要3分钟�
 
 
 <br/><br/><br/>
-4. 纯swift项目完成，框架例行升级
+3. 纯swift项目完成，框架例行升级
 =========
 <br/>
 时间：2015年9月7日 12:31<br/><br/>
@@ -115,7 +115,7 @@ CoreJPush,让您四句代码立即搞定JPush，集成到使用只需要3分钟�
 8.[TextField-InputView](https://github.com/CharlinFeng/TextField-InputView)新增时间选取器
 
 <br/><br/><br/>
-3. TextField-InputView
+2. TextField-InputView
 =========
 <br/>
 时间：2015年9月1日 10:40<br/><br/>
@@ -128,7 +128,7 @@ CoreJPush,让您四句代码立即搞定JPush，集成到使用只需要3分钟�
 
 
 <br/><br/><br/>
-2. CoreModel系列
+1. CoreModel系列
 =========
 
 <br/>
@@ -149,7 +149,7 @@ CoreModel系列 正在重制:<br/>
 
 
 
-<br/>
+<br/><br/><br/><br/><br/><br/>
 [![image](https://github.com/CharlinFeng/Resource/blob/master/ShiDian/shidian.png)](http://ios-android.cn)<br/><br/>
 
 <br/><br/>
