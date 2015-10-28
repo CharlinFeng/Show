@@ -10,7 +10,7 @@
 <br/><br/>
 #### 支持`时点软件`前期生存（公司前期做`全国APP外包业务`），为时点`提供业务资源与信息`或`业务合作分成`，我们都感激不尽！
 #### `公司网站`：[http://ios-android.cn](http://ios-android.cn)
-#### `商务QQ`：[2113171554](http://wpa.qq.com/msgrd?v=3&uin=2113171554&site=qq&menu=yes)
+#### `商务QQ`：[2113171554](http://wpa.qq.com/msgrd?v=3&uin=2113171554&site=qq&menu=yes)（外包信息，外包合作，外包分成等请加）
 
 <br/><br/><br/><br/>
 ##### 技术交流，请加Charlin技术群：
