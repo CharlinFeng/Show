@@ -23,12 +23,24 @@
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
+
+10 . 朋友圈相册视图
+=========
+<br/><br/>
+[SinaPhotoView](https://github.com/CharlinFeng/SinaPhotoView) 朋友圈相册视图<br/><br/>
+
+<br/><br/><br/>
+
+
+
 9. 一键启动动画更新，增加第5种一键动画
 =========
 <br/><br/>
 [CoreLaunch](https://github.com/CharlinFeng/CoreLaunch) 一键启动：中间翻页<br/><br/>
 
 <br/><br/><br/>
+
+
 
 
 8. 一键启动动画
