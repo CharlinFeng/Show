@@ -24,6 +24,14 @@
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 
+11 . 仿支付宝密码视图
+=========
+<br/><br/>
+[SinaPhotoView](https://github.com/CharlinFeng/CorePasswordView) 朋友圈相册视图<br/><br/>
+
+<br/><br/><br/>
+
+
 10 . 朋友圈相册视图
 =========
 <br/><br/>
