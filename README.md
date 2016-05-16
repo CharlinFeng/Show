@@ -24,6 +24,14 @@
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 
+12 . ThreeDTouch
+=========
+<br/><br/>
+[ThreeDTouch](https://github.com/CharlinFeng/ThreeDTouch) 3D Touch 快速集成<br/><br/>
+
+<br/><br/><br/>
+
+
 11 . 仿支付宝密码视图
 =========
 <br/><br/>
