@@ -24,6 +24,14 @@
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 
+13 . CoreNavVC  -Most Powerfull NavigationController
+=========
+<br/><br/>
+[CoreNavVC](https://github.com/CharlinFeng/CoreNavVC) 最强导航控制器<br/><br/>
+
+<br/><br/><br/>
+
+
 12 . ThreeDTouch
 =========
 <br/><br/>
